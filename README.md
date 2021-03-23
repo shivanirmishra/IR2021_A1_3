@@ -1,5 +1,5 @@
-# Information Retrieval (Assignment 1)
-IR Assignment 1 
+# Information Retrieval (Project)
+Audio Content Based Music Recommendation System
 
 
 ## Authors
